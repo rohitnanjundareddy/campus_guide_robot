@@ -6,7 +6,8 @@ A social campus tour-guide robot built on the Misty II platform, designed to exp
 
 **Repository**: https://github.com/rohitnanjundareddy/campus_guide_robot  
 **Papers**: Research Paper (ResearchPaper.pdf) and Design Paper (DesignPaper.pdf)  
-**Course**: CS 531 - Social Robotics & HRI, University of Illinois Chicago
+**Demo**: [Watch the full demo video](https://1drv.ms/v/c/DD1E5EC8BA61FDDA/IQBMV_Mvx93yR4SAF8uISYHPAWu75WWdrCusvdkQ4eiLHOs?e=shIUUH)  
+**Course**: CS 531 - Social Robotics & Human-Robot Interaction (HRI), University of Illinois Chicago
 
 This project explores how social robots can complement human help desks by handling routine wayfinding tasks while providing the same social supports users expect from human guides.
 
