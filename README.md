@@ -5,7 +5,7 @@ A social campus tour-guide robot built on the Misty II platform, designed to exp
 ## Project Overview
 
 **Repository**: https://github.com/rohitnanjundareddy/campus_guide_robot  
-**Papers**: Research Paper (Corrie-ResearchPaper.pdf) and Design Paper (Corrie-DesignPaper.pdf)  
+**Papers**: Research Paper (ResearchPaper.pdf) and Design Paper (DesignPaper.pdf)  
 **Course**: CS 531 - Social Robotics & HRI, University of Illinois Chicago
 
 This project explores how social robots can complement human help desks by handling routine wayfinding tasks while providing the same social supports users expect from human guides.
@@ -315,8 +315,8 @@ This prototype accompanies a proposed mixed-methods study. The study has not bee
 campus_guide_robot/
 ├── campus_guide.py          # Main robot control script
 ├── papers/
-│   ├── Corrie-ResearchPaper.pdf
-│   └── Corrie-DesignPaper.pdf
+│   ├── ResearchPaper.pdf
+│   └── DesignPaper.pdf
 └── README.md
 ```
 
